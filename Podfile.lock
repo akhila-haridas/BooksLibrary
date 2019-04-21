@@ -1,0 +1,22 @@
+PODS:
+  - Fuse (1.2.0)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+
+DEPENDENCIES:
+  - Fuse
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Fuse
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Fuse: 287bd95a5c8dbfe6c41af519eaf48856aa1a28f6
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+
+PODFILE CHECKSUM: 2e40158e0f9c66ff19f1e8eff38ed353e2e289a6
+
+COCOAPODS: 1.5.3
